@@ -469,7 +469,7 @@
                     "id": "cbeaf823-3b69-4004-8ec8-13ea2ca3fc31",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": "",
+                    "interactions": "Sector(directions=-1)",
                     "initialStateCheck": true
                 },
                 {
