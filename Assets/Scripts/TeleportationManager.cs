@@ -15,15 +15,15 @@ public class TeleportationManager : MonoBehaviour
     {
         rayInteractor.enabled = false;
 
-        var activate = actionAsset.FindActionMap("XRI LeftHand").FindAction("Teleport Mode Activate");
+        var activate = actionAsset.FindActionMap("XRI LeftHand Locomotion").FindAction("Teleport Mode Activate");
         activate.Enable();
         activate.performed += OnTeleportActivate;
 
-        var cancel = actionAsset.FindActionMap("XRI LeftHand").FindAction("Teleport Mode Activate");
+        var cancel = actionAsset.FindActionMap("XRI LeftHand Locomotion").FindAction("Teleport Mode Activate");
         cancel.Enable();
         cancel.performed += OnTeleportCancel;
 
-        _thumpstick = actionAsset.FindActionMap("XRI LeftHand").FindAction("Move");
+        _thumpstick = actionAsset.FindActionMap("XRI LeftHand Locomotion").FindAction("Move");
         _thumpstick.Enable();
     }
 
