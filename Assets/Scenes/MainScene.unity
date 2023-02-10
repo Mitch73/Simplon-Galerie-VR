@@ -862,6 +862,93 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "La Joconde, \xE9galement connue sous le nom de Mona Lisa, est une peinture
+        \xE0 l'huile sur bois r\xE9alis\xE9e par L\xE9onard de Vinci entre 1503 et
+        1506."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontStyle
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 212.8351
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 219.6249
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.9928
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0716
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.005
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.49999997
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5393798
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 212.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 145.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.000038665
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 106.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 43.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_SizeDelta.x
@@ -1158,6 +1245,49 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 49.243477
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "La Naissance de V\xE9nus de Botticelli est une peinture \xE0 l'huile
+        sur toile r\xE9alis\xE9e vers 1485. Il repr\xE9sente la d\xE9esse V\xE9nus
+        sortant de l'eau, entour\xE9e de personnages all\xE9goriques et de d\xE9cors
+        inspir\xE9s de la mythologie antique."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 207.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 140.2274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.2287
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.0029
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -1182,6 +1312,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.0002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 207.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 140.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.00014515
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.00040233
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.00063682
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -2251,6 +2406,53 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 29.468493
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "La Nuit \xC9toil\xE9e de Van Gogh est une peinture \xE0 l'huile sur
+        toile cr\xE9\xE9e en 1888. Il repr\xE9sente un paysage nocturne avec un ciel
+        \xE9toil\xE9, des arbres et une route."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 194.2629
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 158.3463
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.1273
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.0056
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.0013
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -2270,6 +2472,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.0037
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 190.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 162.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.000013765
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 428
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.000002861
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -5153,6 +5380,49 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 22.569895
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "Les M\xE9nines de Vel\xE1zquez est une peinture \xE0 l'huile sur toile
+        r\xE9alis\xE9e en 1656. Elle repr\xE9sente la reine d'Espagne, Marie-Th\xE9r\xE8se,
+        et ses dames d'honneur, avec Vel\xE1zquez lui-m\xEAme peint en train de peindre
+        le tableau dans le coin en bas \xE0 droite."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 245.7792
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 246.2626
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.4392
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0004
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.0067
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -5172,6 +5442,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.0191
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 217.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 236.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -10.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 4.6457
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -5791,6 +6086,39 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 53.3471
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "Les Deux Fridas de Frida Kahlo est une peinture \xE0 l'huile sur toile
+        r\xE9alis\xE9e en 1939. Elle repr\xE9sente deux versions de Frida Kahlo assises
+        c\xF4te \xE0 c\xF4te, main dans la main, chacune v\xEAtue de la tenue traditionnelle
+        mexicaine."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 232.9946
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 203.3783
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.2791
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.0132
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -5815,6 +6143,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.0075
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 226.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 202.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.000024587
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.43398
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.43718
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -6694,6 +7047,48 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 53.3471
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "Le D\xE9jeuner des Canotiers de Renoir est une peinture \xE0 l'huile
+        sur toile r\xE9alis\xE9e en 1881. Il repr\xE9sente un groupe de personnes,
+        principalement des femmes, dans un bateau \xE0 rames, en train de d\xE9jeuner."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 203.1241
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 158.9102
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.2298
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0001
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.0261
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -6718,6 +7113,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.0017
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 203.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 161.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.00014423
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.00074470043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1.35
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -7480,7 +7900,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh29736
+  m_Name: pb_Mesh29182
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8667,6 +9087,33 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 53.3471
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "Le Baiser de Klimt est une peinture \xE0 l'huile sur toile r\xE9alis\xE9e
+        en 1908. Il repr\xE9sente un couple en train de s'embrasser, entour\xE9 d'un
+        d\xE9cor luxuriant et de motifs ornementaux."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 197.7711
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -8691,6 +9138,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.0035
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 196.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 216.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.00021542
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.65036
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -2.0306
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -8878,6 +9350,48 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "Le Cri de Munch est une peinture \xE0 l'huile sur toile cr\xE9\xE9e
+        en 1893. Il repr\xE9sente un homme qui crie, entour\xE9 d'un paysage d\xE9chirant
+        et d'\xE9l\xE9ments symboliques tels que des mains qui se tendent vers lui."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 208.2455
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 219.445
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.01
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -8897,6 +9411,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.0033
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 206.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 219.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.00014844
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0011494
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.00056708
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -9033,6 +9572,48 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 49.243477
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "L'Ange D\xE9chu de Cabanel est une peinture \xE0 l'huile sur toile
+        r\xE9alis\xE9e en 1863. Il repr\xE9sente un ange d\xE9chu, nu, entour\xE9
+        d'un d\xE9cor romantique et dramatique."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 210.7315
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 147.4904
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.2772
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.0153
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -9057,6 +9638,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.0194
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 207.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 142.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.000062585
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.623
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.000011206
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -9193,6 +9799,49 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 49.243477
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "La Ronde de Nuit de Rembrandt est une peinture \xE0 l'huile sur toile
+        r\xE9alis\xE9e en 1642. Elle repr\xE9sente une sc\xE8ne de rue nocturne avec
+        des personnages habill\xE9s en costumes de l'\xE9poque, dont un personnage
+        principal qui tient une lanterne."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 218.4414
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 186.2471
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.011
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -9217,6 +9866,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.0063
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 206.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 186.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.0011405
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
@@ -9386,6 +10060,28 @@ PrefabInstance:
       propertyPath: m_InnerSpotAngle
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4389084063983521780, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_text
+      value: "Les N\xE9nuphars de Monet est une s\xE9rie de peintures \xE0 l'huile
+        sur toile cr\xE9\xE9e en 1899. Il repr\xE9sente des n\xE9nuphars flottant
+        sur une \xE9tendue d'eau, avec un ciel nuageux en arri\xE8re-plan."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920564721701575272, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.02
+      objectReference: {fileID: 0}
     - target: {fileID: 5705482673582415776, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -9405,6 +10101,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.0154
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 195.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 220.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.00014675
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0003801
+      objectReference: {fileID: 0}
+    - target: {fileID: 6601055422589189828, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.00015974
       objectReference: {fileID: 0}
     - target: {fileID: 6887534991938902115, guid: 6784e23d2c4033b5d8b26cf9bd11e211,
         type: 3}
