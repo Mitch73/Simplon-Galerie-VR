@@ -1,13 +1,15 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
+using UnityEngine.Events;
 
 public class UserInput : MonoBehaviour
 {
 
-    public static bool click;
+    public UnityEvent OnEnter;
+    public UnityEvent OnExit;
 
-    public void OnFire(InputAction.CallbackContext ctx)
+    public void OnTriggerEnter(Collider other)
     {
-        click = ctx.canceled ? false : true;
+        TriggerExit.instance.currentCollider = GetComponent<UserInput>();
+        OnEnter.Invoke();
     }
 }
