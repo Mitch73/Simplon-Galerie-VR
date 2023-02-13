@@ -24,7 +24,7 @@ public class TeleportationManagement : MonoBehaviour
         activate.performed += OnTeleportActivate;
 
         // declaration cancel mode teleportation
-        var cancel = actionAsset.FindActionMap("XRI LeftHand Locomotion").FindAction("Teleport Mode Activate");
+        var cancel = actionAsset.FindActionMap("XRI LeftHand Locomotion").FindAction("Teleport Mode Cancel");
         cancel.Enable();
         cancel.performed += OnTeleportCancel;
 
