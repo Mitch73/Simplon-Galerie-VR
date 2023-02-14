@@ -3,7 +3,6 @@ using UnityEngine.Events;
 
 public class UserInput : MonoBehaviour
 {
-
     public UnityEvent OnEnter;
     public UnityEvent OnExit;
 
