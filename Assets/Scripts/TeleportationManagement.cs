@@ -14,7 +14,7 @@ public class TeleportationManagement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //seulement montrer le ray quand on avance la manette  quand on relache  doit nous teleporter automatiquement et quand on presse la manette  annule teleport
+        //rayinteractor au depart est inactif
         rayInteractor.enabled = false;
 
         // declaration activation mode teleportation
@@ -44,13 +44,15 @@ public class TeleportationManagement : MonoBehaviour
             return;
 
         // si la fonction GetCurrentRaycasHit renvoie false, donc pas de point hit donc pas de deplacement pour tout ce qui est 3D TryGetCurrent3DRaycastHit
-        if (! rayInteractor.TryGetCurrent3DRaycastHit(out RaycastHit hit))
+        if (!rayInteractor.TryGetCurrent3DRaycastHit(out RaycastHit hit))
+            rayInteractor.enabled = false;
+            isActive = false;
             return;
 
         TeleportRequest request = new TeleportRequest()
         {
             destinationPosition = hit.point,
-            //destinationRotation = , trouver comment coder la rotation car par rapport position = 0
+            //destinationRotation =  ? , trouver comment coder la rotation car par rapport position = 0
         };
         provider.QueueTeleportRequest(request);
     }

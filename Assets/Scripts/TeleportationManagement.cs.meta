@@ -3,7 +3,10 @@ guid: 8fa34cfd158ea1f44b7561dd8587f653
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - actionAsset: {instanceID: 0}
+  - rayInteractor: {instanceID: 0}
+  - provider: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
