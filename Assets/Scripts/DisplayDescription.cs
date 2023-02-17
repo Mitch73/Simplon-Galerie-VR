@@ -12,7 +12,6 @@ public class DisplayDescription : MonoBehaviour
         displayed = !displayed;
         description.SetActive(displayed);
     }
-
     /*
     private void OnMouseOver()
     {
